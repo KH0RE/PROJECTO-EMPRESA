@@ -1,0 +1,29 @@
+.container-fluid{
+   font-family: "Cooper Std";
+}
+#imagen {
+   background: black;
+   height: 793px;
+  
+  
+   
+   
+}
+
+
+#formulario {
+   position: relative;
+   top: 150px;
+
+   
+
+}
+
+.letter{
+   font-family: "Cooper Std";
+   text-align:center;
+}
+
+.SearchDiv{
+   text-align:center;
+  }
